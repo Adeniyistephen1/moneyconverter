@@ -1,0 +1,110 @@
+#navbar{
+    background-color:rgb(122, 90, 173);
+    color: white;
+}
+#toggle{
+    background-color: #fff;
+}
+
+
+
+
+
+/* ul{
+    padding: 0;
+    margin: 0;
+}
+header{
+    background-color: slateblue;
+    height: 40px;
+    padding: 10px 100px 10px 100px;
+    color: #fff;
+}
+#iconvert{
+    font-size: 30px;
+}
+#Home{
+    margin-left: 60%;
+}
+#about, #contact{
+    margin-left: 4%;
+}
+div.purple{
+    background-color: slateblue;
+    width: 40%;
+    height: 100px;
+    margin-top: -400px;
+    margin-left: 600px;
+    color: #fff;
+    padding-top: 1px;
+}
+.welcome{
+    margin-left: 80px;
+}
+.black{
+    background-color: black;
+    width: 60%;
+    padding: 10px 70px 10px 70px;
+    margin-top: 10px;
+    margin-left: 40px;
+}.button{
+    background-color: green;
+    color: #fff;
+    width: 130px;
+    height: 40px;
+    font-size: 15px;
+    margin-left: 780px;
+    margin-top: -10px;
+}
+div.result{
+    background-color: slateblue;
+    width: 40%;
+    margin-left: 600px;
+    margin-top: 350px;
+}
+#print{
+    font-size: 25px;
+    color: #fff;
+    margin-left: 200px;
+    margin-top: -320px;
+    padding-top: 10px;
+}
+#myTable{
+    width: 100%;
+}
+.image img{
+    width: 400px;
+    margin-left: 100px;
+    margin-top: 50px;
+}
+
+@media(max-width: 768px){
+    #iconvert{
+        font-size: 20px;
+    }
+    #Home{
+        margin-left: 50px;
+    }
+    header{
+        padding-right: 20px;
+    }
+    .image img{
+        width: 250px;
+        margin-left: 120px;
+        margin-top: 30px;
+    }
+    div.purple{
+        margin-left: 1px;
+        width: 100%; 
+        margin-top: 00px; 
+    }
+    .button{
+        margin-left: 170px;
+    }
+    div.result{
+        margin-left: 1px;
+        margin-top: 350px;
+        width: 100%;
+
+    }
+} */
